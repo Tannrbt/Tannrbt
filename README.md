@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Mada</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:960/0*63WG6R0wvA90tl3C.gif">
 
-//<p align="left"> <img src="https://komarev.com/ghpvc/?username=tannrbt&label=Profile%20views&color=0e75b6&style=flat" alt="tannrbt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tannrbt&label=Profile%20views&color=0e75b6&style=flat" alt="tannrbt" /> </p>
 
 - 🌱 I’m currently learning **React**
 
